@@ -257,27 +257,27 @@ Os prints da execução dos testes devem ser adicionados nesta seção.
 
 ### Evidência 1 - Bloqueio de DELETE
 
-Cole aqui o print mostrando a mensagem de `permission denied`.
+<img width="1570" height="841" alt="Capturar" src="https://github.com/user-attachments/assets/4df67c5e-2398-421b-9f2c-c8b0fc8b3260" />
+
 
 ### Evidência 2 - Bloqueio de UPDATE
 
-Cole aqui o print mostrando a mensagem de `permission denied`.
+<img width="1492" height="782" alt="A" src="https://github.com/user-attachments/assets/fdda770e-1dab-4e90-a56d-3d106c11529b" />
+
 
 ### Evidência 3 - Bloqueio da coluna restrita
 
-Cole aqui o print mostrando a tentativa de acesso ao `credencial_hash`.
+<img width="1321" height="864" alt="CapturarAA" src="https://github.com/user-attachments/assets/ad7b5b22-2e45-4107-a68d-9ec759079788" />
+
 
 ### Evidência 4 - Operação válida
+<img width="1567" height="756" alt="CapturarAAAA" src="https://github.com/user-attachments/assets/86ee6e92-50d1-4bad-bcde-277bfd30f13e" />
 
-Cole aqui o print mostrando o `INSERT` de uma movimentação realizado com sucesso.
 
 ### Evidência 5 - Auditoria
 
-Cole aqui o print da consulta:
+<img width="1911" height="862" alt="Capturar ABB" src="https://github.com/user-attachments/assets/fb27a701-709d-4917-bafc-7cb39fc11b74" />
 
-```sql
-SELECT * FROM audit.logged_actions ORDER BY action_tstamp;
-```
 
 ---
 
